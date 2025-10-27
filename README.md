@@ -1,56 +1,52 @@
-<h1 align="center">Hi 👋, I'm Asadbek</h1>
-<h3 align="center">🚀 FullStack Web Developer | 💻 Passionate Coder | 🌊 Swimmer</h3>
+<!-- ====== PROFILE HEADER ====== -->
+<div align="center">
+  <h1>Hi 👋, I'm Asadbek</h1>
+  <h3>🚀 FullStack Web Developer | 💻 Passionate Coder | 🌊 Swimmer</h3>
 
+  <p><strong>Computer Science & Engineering Student @ Kangwon National University, South Korea</strong></p>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="status" />
+    <img src="https://img.shields.io/badge/Lang-Korean%20(TOPIK%205)-blue" alt="korean" />
+    <img src="https://img.shields.io/badge/School-KNU%20-orange" alt="school" />
+   <p><img src="https://img.shields.io/badge/Skills-HTML%20%7C%20CSS%20%7C%20Sass%20%7C%20JS%20%7C%20TS%20%7C%20React%20%7C%20Node.js%20%7C%20Express%20%7C%20NestJS%20%7C%20MongoDB%20%7C%20System%20Design-lightgrey" />
+</p>
+  </p>
+</div>
+
+---
+
+### 📈 GitHub Overview
+
+<div style="display: flex; gap: 16px; align-items:flex-start;">
+
+<!-- LEFT: Main GitHub cards -->
+<div style="flex: 1; min-width: 280px;">
+
+<!-- Top languages (compact) -->
 <p align="center">
-  <b>Computer Science & Engineering Student @ Kangwon National University, South Korea</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamzaevasad&layout=compact&hide_border=true" alt="top-langs" />
 </p>
 
----
-
-### 🌟 About Me  
-- 🎓 Studying **Computer Science & Engineering** in South Korea  
-- 💻 Learning & building with **JavaScript, TypeScript, Node.js, React, Next.js, Nest.js**  
-- 🛠 Exploring **MongoDB, Tailwind, DaisyUI, MUI** and more modern web tech  
-- 🌊 Hobbies: Swimming, Watching Movies, and of course... Coding!  
-- 🚀 Always eager to **grow as a FullStack Developer**  
-
----
-
-### 📈 Profile Stats  
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=khamzaevasad&label=Profile%20views&color=0e75b6&style=flat" alt="khamzaevasad" /> 
+<!-- Overall stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khamzaevasad&show_icons=true&count_private=true&line_height=20&hide_border=true" alt="github-stats" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khamzaevasad" alt="khamzaevasad" />
-  </a> 
+</div>
+
+<!-- RIGHT: Trophies + activity -->
+<div style="flex: 1; min-width: 260px;">
+
+
+
+<!-- Contribution calendar alternative (small) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/khamzaevasad" alt="contribution-graph" />
 </p>
 
----
-
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" alt="daisyui" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+</div>
+</div>
 
 ---
-
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khamzaevasad&show_icons=true&locale=en&layout=compact" alt="khamzaevasad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khamzaevasad&show_icons=true&locale=en" alt="khamzaevasad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamzaevasad&" alt="khamzaevasad" /></p>
