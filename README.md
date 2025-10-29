@@ -27,26 +27,5 @@
 <!-- Top languages (compact) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamzaevasad&layout=compact&hide_border=true" alt="top-langs" />
+   <img src="https://github-readme-stats.vercel.app/api?username=khamzaevasad&show_icons=true&count_private=true&line_height=20&hide_border=true" alt="github-stats" />
 </p>
-
-<!-- Overall stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamzaevasad&show_icons=true&count_private=true&line_height=20&hide_border=true" alt="github-stats" />
-</p>
-
-</div>
-
-<!-- RIGHT: Trophies + activity -->
-<div style="flex: 1; min-width: 260px;">
-
-
-
-<!-- Contribution calendar alternative (small) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/khamzaevasad" alt="contribution-graph" />
-</p>
-
-</div>
-</div>
-
----
