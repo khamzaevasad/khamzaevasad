@@ -49,13 +49,13 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://next-tech.uz/" target="_blank" rel="noopener noreferrer">
+<a href="next-tech.uz" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Project-Next--Tech-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="https://mokcha.uz/" target="_blank" rel="noopener noreferrer">
+<a href="mokcha.uz" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Project-Mokcha-1F2937?style=for-the-badge" />
 </a>
----
+
 
 📌 Focused on building scalable, production-ready web applications.
