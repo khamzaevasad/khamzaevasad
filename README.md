@@ -49,11 +49,11 @@
 
 ## 🚀 Featured Projects
 
-<a href="next-tech.uz" target="_blank" rel="noopener noreferrer">
+<a href="http://next-tech.uz/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Project-Next--Tech-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="mokcha.uz" target="_blank" rel="noopener noreferrer">
+<a href="http://mokcha.uz/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Project-Mokcha-1F2937?style=for-the-badge" />
 </a>
 
