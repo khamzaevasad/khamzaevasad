@@ -1,5 +1,5 @@
 # Asadbek Khamzaev
-**Full-Stack Web Developer**
+**Software engineer 💻**
 
 ---
 
