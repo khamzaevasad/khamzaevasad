@@ -1,4 +1,4 @@
-# Asadbek Khamzaev
+# Khamzaev Asadbek
 **Software engineer 💻**
 
 ---
