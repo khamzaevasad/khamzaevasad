@@ -5,7 +5,7 @@
 
 ## 🧩 Skills
 
-### 🎨 Frontend
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" align="center"/> &nbsp; Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,7 +24,8 @@
 
 ---
 
-### ⚙️ Backend
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" align="center"/> &nbsp; Backend
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,7 +40,7 @@
 
 ---
 
-### 🗄️ Databases
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" align="center"/> &nbsp; Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
@@ -51,7 +52,7 @@
 
 ---
 
-### 🤖 AI / Machine Learning
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="22" align="center"/> &nbsp; AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -64,7 +65,7 @@
 
 ---
 
-### 🛠️ DevOps & Tools
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" align="center"/> &nbsp; DevOps & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
@@ -74,10 +75,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" align="center"/> &nbsp; Featured Projects
 
-## 🚀 Featured Projects
-
-<a href="http://next-tech.uz/" target="_blank" rel="noopener noreferrer">
+<a href="http://next-tech.uz" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_Live_Project-Next--Tech-0A66C2?style=for-the-badge" />
 </a>
 &nbsp;
